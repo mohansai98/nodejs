@@ -1,0 +1,4 @@
+20221217	19:53:15	5b08cb56-5e8d-47df-888c-9a86d0b95173	Log event  emitted
+20221217	19:53:27	c2c03af2-6507-471b-ab05-c4de28318ca5	Log event  emitted
+20221217	19:53:42	f38bcfcd-0af8-4ce0-8c5a-3226c9af2ac3	Log event  emitted
+20221217	19:54:09	b933e6a3-c9b5-4dc8-9026-ea57dcf38e63	Log event emitted
